@@ -10,9 +10,14 @@
 </head>
 <body>
 
-
-
 <?php
+session_start();
+if(!isset($_SESSION['licznik'])) {
+	$_SESSION['licznik'] = 1;
+} else {
+	$_SESSION['licznik']++;
+};
+
 require 'connect.php';
 ?>
 

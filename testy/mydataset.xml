@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	<Users
+	users_id=""
+	users_imie="piotr"
+	users_nazwisko="halicki"
+	users_email="aaa@aaa.pl"
+	users_pass="4897548397"
+	users_adres="ul. Żurawia"/>
+</dataset>
