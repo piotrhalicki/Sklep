@@ -6,14 +6,14 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="shOp" content="ćwiczenia">	
-	<title>< sh([])p ></title>
+	<title>&lt; sh([])p &gt;</title>
 </head>
 <body>
 
 
 
 <?php
-require './connect.php';
+require 'connect.php';
 ?>
 
 <hr>
